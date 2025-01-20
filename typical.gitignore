@@ -1,0 +1,27 @@
+# LaTex Auxiliary extensions
+**.toc
+**.aux
+**.nav
+**.snm
+**.gz
+**.vrb
+**.log
+**.out
+**.hid
+**.bcf
+**.xml
+**.blg
+**.dvi
+**.bbl*
+**.fdb_latexmk
+**.fls
+**.ps
+
+# Miscelenious
+**/aux
+**.~lock.**
+**/.ipynb_checkpoints
+.idea/
+*__pycache__
+**deleteme*
+**.venv
